@@ -13,3 +13,6 @@ Thumbs.db
 
 ## Playwright MCP
 .playwright-mcp/
+
+## Local scripts (not part of upstream project)
+local-scripts/
