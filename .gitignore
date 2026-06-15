@@ -16,3 +16,6 @@ Thumbs.db
 
 ## Local scripts (not part of upstream project)
 local-scripts/
+
+## Local Claude Code config (skills, settings, memory)
+.claude/
